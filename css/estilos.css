@@ -117,7 +117,7 @@ section {
     color: var(--main-color)
 }
 
-#Productos-btn {
+#menu-btn {
     display: none
 }
 
@@ -986,7 +986,7 @@ form.form_contact input[type=button]:hover {
 }
 
 @media(max-width:768px) {
-    #Productos-btn {
+    #menu-btn {
         display: inline-block
     }
 
